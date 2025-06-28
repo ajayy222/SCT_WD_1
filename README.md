@@ -12,11 +12,10 @@ Built a responsive landing page for a toy brand called **FunToys** as part of Sk
 ## 🚀 Technologies Used
 - HTML5, CSS3, JavaScript
 
-## 📸 Screenshots
-_Add screenshots of your website here if possible_
 
-## 🔗 Live Link
-_If hosted on GitHub Pages or Netlify_
+## 🔗 Live Demo
+[View Live Website]
+(https://yourusername.github.io/SCT_WD_1/)
 
-## 📝 Author
-Ajay Jangir
+## 🙋 Author
+**Ajay Jangir** – Web Development Intern @ SkillCraft
