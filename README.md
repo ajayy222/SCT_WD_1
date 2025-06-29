@@ -15,7 +15,7 @@ Built a responsive landing page for a toy brand called **FunToys** as part of Sk
 
 ## 🔗 Live Demo
 [View Live Website]
-snazzy-nasturtium-5c1c03.netlify.app
+https://snazzy-nasturtium-5c1c03.netlify.app/
 
 ## 🙋 Author
 **Ajay Jangir** – Web Development Intern @ SkillCraft
